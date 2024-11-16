@@ -23,7 +23,7 @@
     "node": ">=18.18.0"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^0.0.39",
+    "@ai-sdk/openai": "^0.0.72",
     "@codemirror/autocomplete": "^6.17.0",
     "@codemirror/commands": "^6.6.0",
     "@codemirror/lang-cpp": "^6.0.2",
@@ -87,6 +87,7 @@
     "is-ci": "^3.0.1",
     "node-fetch": "^3.3.2",
     "prettier": "^3.3.2",
+    "sass-embedded": "^1.81.0",
     "typescript": "^5.5.2",
     "unified": "^11.0.5",
     "unocss": "^0.61.3",

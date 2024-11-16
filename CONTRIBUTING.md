@@ -60,6 +60,7 @@ pnpm install
 
 ```
 ANTHROPIC_API_KEY=XXX
+OPENAI_API_KEY=XXX
 ```
 
 Optionally, you can set the debug level:
